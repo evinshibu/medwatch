@@ -10,7 +10,7 @@
 cd medwatch
 ```
 
-### 2. Start everything
+### 2. Start everything here
 ```bash
 docker-compose up --build
 ```
